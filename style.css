@@ -1,0 +1,75 @@
+body { 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 3px;
+    padding: 1px;
+    }
+
+    table {
+        width: 100%;
+        height: 20px;
+        border-collapse: separate;
+        padding: 50px;
+
+    }
+    td {
+        border: 1px solid black;
+        padding: 1px;
+
+
+    }
+
+    td.vazio {
+        border: 0px;
+    }
+    td.verde {
+        background-color: rgb(203, 255, 125);
+    }
+    
+    td.azulcielo {
+        background-color: rgb(46, 126, 245);
+    }
+
+    td.laranja {
+        background-color: orange;
+    }
+
+    td.amarelo {
+        background-color: rgb(250, 250, 18);
+    }
+
+    td.petróleo {
+        background-color: rgb(10, 180, 180);
+    }
+
+    td.azulclear {
+        background-color: rgb(92, 192, 231);
+    }
+
+    td.azulgray {
+        background-color: rgb(163, 211, 218);
+    }
+
+    td.rosa {
+        background-color: rgb(228, 106, 143);
+    }
+
+    td.blue {
+        background-color: rgb(140, 252, 246);
+    }
+
+    td.lilás {
+        background-color: rgb(203, 156, 247);
+    }
+
+    h5 {
+        text-align: left;
+        font-size: 9px;
+    }
+
+ h3, h4 {
+        text-align: center;
+        font-size: 10px;
+    }
+    h1{
+        text-align: center;
+    }
